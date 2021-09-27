@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/72533488-f401-497f-a0d1-7c8ada3b38c6/resourceGroups/angularnew/providers/Microsoft.Web/sites/Angular-XP",
+    "appService.deploySubpath": "dist\\frontend-xp"
+}
